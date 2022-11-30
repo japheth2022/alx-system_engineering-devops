@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #Displays list of currently running processes for all users
 #in user-oriented format and according to their heirachy
-ps -faux
+ps faux
